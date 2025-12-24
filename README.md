@@ -1,3 +1,5 @@
+> https://wazyx.xyz/apps/Revo/REVOFLUX_Uo6sqDVPB4.png
+
 REVOFLUX - Lecteur RSS by Wazyx
 REVOFLUX est un lecteur de flux RSS/Atom moderne, simple et élégant, conçu pour suivre vos sources d'actualité préférées en toute fluidité.
 Développé avec ❤️ par Wazyx, ce logiciel est 100 % gratuit, sans publicité et entièrement autonome.
@@ -21,7 +23,7 @@ Application portable : un seul fichier .exe, pas d’installation requise
 
 Installation / Utilisation
 
->>>> https://wazyx.xyz/apps/Revo/dist/REVOFLUX.zip
+> https://wazyx.xyz/apps/Revo/dist/REVOFLUX.zip
 
 Téléchargez le fichier REVOFLUX.exe (et éventuellement logo.png si fourni séparément).
 Placez-le où vous voulez sur votre ordinateur.
