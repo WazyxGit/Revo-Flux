@@ -21,6 +21,8 @@ Application portable : un seul fichier .exe, pas d’installation requise
 
 Installation / Utilisation
 
+>>>> https://wazyx.xyz/apps/Revo/dist/REVOFLUX.zip
+
 Téléchargez le fichier REVOFLUX.exe (et éventuellement logo.png si fourni séparément).
 Placez-le où vous voulez sur votre ordinateur.
 Double-cliquez dessus pour lancer REVOFLUX.
